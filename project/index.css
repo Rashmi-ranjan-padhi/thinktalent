@@ -1,0 +1,29 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+#logo img{
+
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    
+}
+#navbar{
+border:2px solid lightgray ;
+
+padding-left: 25px;
+border-top: none;
+
+
+}
+#logo1 img{
+
+    height: 15px;
+    width: 15px;
+    margin-left: 1200px;
+    
+
+}
+
